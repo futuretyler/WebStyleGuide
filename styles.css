@@ -1,0 +1,111 @@
+body {
+    margin: 0 10%;
+}
+
+div {
+    display: block;
+}
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+p {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    font-weight: normal;
+}
+
+.container {
+    border: 2px solid black;
+    padding: 10px;
+    margin: 10px auto;
+}
+
+.color-container {
+    width: 100%;
+}
+
+.color-panel {
+    width: 32%;
+    height: 100px;
+    display: inline-block;
+    border: 2px solid black;
+    margin: 20px auto;
+    text-align: center;
+}
+
+.city-lights {
+    background-color: #dfe6e9;
+    color: black;
+    font-weight: bold;
+}
+
+.first-date {
+    background-color: #fab1a0;
+    color: black;
+    font-weight: bold;
+}
+
+.mint-leaf {
+    background-color: #00b894;
+    color: black;
+    font-weight: bold;
+}
+
+.sour-lemon {
+    background-color: #ffeaa7;
+    color: black;
+    font-weight: bold;
+}
+
+.font-container {
+    width: 100%;
+    margin: 20px auto;
+}
+
+.font-panel {
+    width: 32%;
+    height: 100px;
+    display: inline-block;
+    border: none;
+    margin: 20px auto;
+    text-align: left;
+}
+
+.Montserrat {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 35px;
+    font-weight: 400;
+}
+
+.Roboto-Mono {
+    font-family: 'Roboto Mono', monospace;
+    font-size: 35px;
+    font-weight: 400;
+}
+
+.font-label {
+    text-decoration: underline;
+}
+
+.font-normal {
+    font-weight: normal;
+}
+
+.font-bold {
+    font-weight: bold;
+}
+
+.font-italic {
+    font-style: italic;
+}
+    
